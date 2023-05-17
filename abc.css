@@ -376,9 +376,7 @@ font-weight: 500;
 font-size: 16px !important;
 color: #fff !important;
 }
-.morelink button{
-margin-top: 20px;
-}
+
 #jumbotron h1{
 font-weight: 500;
 line-height: 1.2;
@@ -397,4 +395,8 @@ color: #fff !important;
 }
 .div_texu{
 margin-bottom: -55px;
+}
+.morelink button{
+margin-top: 0px;
+font-size:16px !important;
 }
