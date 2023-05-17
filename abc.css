@@ -1,0 +1,400 @@
+/*-- - - -- - - -   men_div-- - - -- - - -   */
+*{
+font-family:'Poppins', sans-serif ;
+}
+.jumbotron{
+background-color: #fff;
+}
+.men_div{
+background-color: #fff;
+}
+.img_logo{
+margin: auto;
+display: block;
+margin-top: 130px;
+}
+.form-control{
+font-weight: 500;
+height: 45px;
+font-size:1em;
+}
+.img_logo img{
+margin: auto;
+display: block;
+height: 80px;
+margin-bottom: 40px;
+}
+.img_logp p{
+font-weight: 500;
+font-size: 1.3em;
+margin-top: 3rem;
+margin-bottom: 60px;
+}
+.input-group-text{
+background-color: ;
+}
+.btn_go{
+margin-top:0px !important;
+width:55px;
+height: 45px;
+}
+.men_box_body{
+background-color: #f4f4f4;
+padding: 119px 0px;
+}
+.box_row_1  {
+background-color: #f9f9f9;
+border: 1px solid #eee;
+border-radius: 5;
+min-height: 520px;
+padding-bottom: 20px;
+margin: 20px 0px;
+padding:0px 10px;
+}
+.title_box{
+font-weight: 500; 
+padding-top: 25px;
+margin: 0px 10px;
+font-size: 1.3em; 
+}
+.title_box span{
+color: #000;
+font-size: 15px;  
+}
+.title_box a{
+margin-bottom: 3rem;
+color: #000;
+display: block;
+}
+.box_row_1 img{
+opacity: 0.99;
+filter: alpha(opacity=90);
+margin: 0 auto;
+object-fit: cover;
+object-position: center center;
+width: 100%;
+height: 250px;
+margin: 0px;
+}
+.div_box3{
+padding-bottom: 100px;
+padding-top: 100px;
+background-color: #f4f4f4;
+}
+.div_box3_h3{
+font-family: 'Poppins', sans-serif;
+margin-bottom: 150px;
+font-weight: 500;
+font-size:   font-size:10px;
+text-align: center;
+}
+.div_3box img{
+border-radius: 50px !important;
+background-color:#f4f4f4;
+object-fit: cover;
+opacity: 0.99;
+margin: 0 auto;
+display: block;
+height: 100px;
+width: 100px;
+margin-bottom: 25px;
+}
+.div_3box h2{
+text-align: center;
+font-family: 'Poppins', sans-serif;
+font-size: 2em;
+margin-bottom: 1.5rem;
+}
+.div_3box p{
+font-weight: 500;
+text-align: center;
+font-family: 'Poppins', sans-serif;
+font-size:15px;
+margin-bottom: 1.5rem;
+}
+.btn{
+margin-top: 190px;
+font-weight: 500;
+font-size: 15px !important;
+color: #fff !important;
+}
+.div_box4{
+padding-bottom: 100px;
+padding-top: 100px;
+background-color: #f9f9f9;
+font-family: 'Poppins', sans-serif;
+}
+.div_box4 h2{
+margin-top: 30px;
+margin-bottom: 40px;
+font-weight: 600;
+font-size: 2rem;
+text-align: center;
+}
+.div_box5{
+padding-bottom: 90px;
+padding-top: 140px;
+}
+.div_box5 , .div_box4 p{
+line-height: 30px;
+font-weight: 500;
+font-size: 1.3em;
+text-align: center;
+}
+.div_box5 p {
+font-family: 'Poppins', sans-serif;
+font-weight:500;
+font-size:20px;
+text-align:center;
+}
+.bu_tton2 button{
+color: #fff;
+font-size: 17px !important;
+font-weight: 600;
+margin: 50px;
+}
+.div_app{
+background-color: #eee8e7;
+}
+.div_app .row{
+padding-top: 100px;
+}
+.div_app_img img{
+width: 100%;
+border-radius: 15px 15px 0px 0px;
+}
+.div_app h2{
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+font-size: 2.4em;
+margin-top: 80px;
+}
+.div_app p{ 
+display: inline;
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+font-size: 1.3em;
+}
+.im_g img{
+margin-top: 40px;
+width: 150px !important;
+}
+.div_texu{
+background-color: #fff;
+}
+.im_tex h2{
+margin-top: 150px;
+font-family: 'Poppins', sans-serif;
+font-size: 2rem;
+text-align: center;
+}
+.div_texu p {
+margin-top: 50px;
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+text-align: center !important;
+font-size: 1.3em;
+}
+.my_btn {
+text-align: center;
+width: 100%;
+margin-top:60px !important;
+margin-bottom: 100px;
+display: block !important;
+}
+.bt_n{
+margin-top: 0px;
+font-size: 16px !important;
+font-weight: 400;
+color: white !important;
+}
+.footerTop {
+border-top: 1px solid #eee;
+height: auto;
+}
+.footerRow {
+margin-top: 80px;
+text-align:left;
+}
+.footerRow .msg {
+margin-bottom: 180px;
+font-size: 1.3rem;
+}
+#footerBox h4 {
+font-weight: 500;
+font-size: 1.2rem;
+color: #000;
+margin-bottom: 30px;
+margin-top: 0px;
+}
+#footerBox p , a {
+font-weight: 500;
+font-size: 1.1rem;
+color: #555;
+}
+#footerBox img {
+margin-top: 0px;
+height: 50px;
+}
+#footerBox .app {
+margin-top: 30px;
+height: 30px;
+}
+.app {
+margin-bottom: 30px;
+}
+.footerBottom {
+margin-top: 50px;
+height: auto;
+background-color: #f9f9f9;
+}
+.footerBottom p {
+font-size: 0.9rem;
+color: #555;
+margin-top: 16px;
+}
+.box_feedb img{
+margin-top: 20px;
+height: 40px;
+}
+/*Feedback - iBharat.org pag*/
+.input_go_btn_text{
+height: 38px;
+}
+.box_fee_input{
+margin-top: 25px;
+border-radius: 3px 0px 0px 3px;
+}
+.input_go_btn{
+width: 85px;
+margin-top: 0px;
+height: 38px;
+line-height: 10px;
+border-radius: 0px 3px 3px 0px;
+}
+.box_feedb_submit{
+height: 38px;
+margin-top: 25px !important;
+}
+.display-4{
+font-weight: 500;
+line-height: 1.2;
+font-size: 53px;
+}
+.box_mail{
+margin-top: 0px;
+}
+.box_p_form{
+margin-top: 50px;
+font-size: 1.7em;
+font-weight: 500;
+}
+.text_aeriya{
+font-weight: 500;
+height: 136px !important;
+font-size: 1em;
+}
+.text_email{
+height: 38px;
+}
+#submitBtn{
+margin-top: 0px;
+margin-bottom: 90px;
+}
+/*Feedback - iBharat.org end*/
+.text_aeriya2{
+height: 38px !important;
+}
+.display_submitprofile{
+font-size: 56px !important;
+}
+/*.input_s  input {
+padding: 0px;
+margin: 0px;
+font-weight: 500 !important;
+height:34px !important;
+font-size: em !important;
+}*/
+.text_emai{
+height: 38px;
+}
+/*  - - - -- - - Advertising  - - - -- - -  */
+.adBox {
+background: #fff;
+border-radius: 5;
+border: 1px solid #eee;
+min-height: 570px;
+padding-bottom: 0px;
+margin: 20px 0px;
+}
+.adImg {
+margin-top: 20px;
+background-color: #f9f9f9;
+opacity: 0.99;
+filter: alpha(opacity=90);
+margin: 0 auto;
+margin-bottom: 0px;
+width: 100%;
+height: auto;
+margin-bottom: 15px;
+padding-bottom: 20px;
+border-bottom: 2px solid #eee;
+}
+.box_displyadv{
+font-weight: 500;
+line-height: 1.2;
+font-size: 53px;
+margin-top: 76px;
+}
+.adBox h2{
+font-size: 2rem;
+}
+.title{
+margin: 10px 10px;
+color: #555;
+}
+.adBox  span{
+font-weight: 500;
+font-size:1em;
+}
+.about_box{
+ont-weight: 500;
+line-height: 1.2;
+font-size: 53px;
+margin-top: 20px;
+}
+.text_emaicontact{
+height: 38px;
+}
+.text_emaicontac{
+height: 180px;
+}
+.contact{
+margin-bottom: 80px;
+margin-top:17px;
+font-weight: 500;
+font-size: 16px !important;
+color: #fff !important;
+}
+.morelink button{
+margin-top: 20px;
+}
+#jumbotron h1{
+font-weight: 500;
+line-height: 1.2;
+font-size: 53px;
+margin-top: 25px;
+}
+.about_men{
+padding-bottom:3rem !important;
+}
+.blog_button button {
+margin-left: 10px;
+margin-top: 0px;
+font-weight: 500;
+font-size: 16px !important;
+color: #fff !important;
+}
+.div_texu{
+margin-bottom: -55px;
+}
